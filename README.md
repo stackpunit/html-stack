@@ -1,2 +1,9 @@
-# html-stack
-html index and code lib
+# HTML-STACK
+
+>HTML (hypertext markup language)
+
+> used for creating web structure.
+
+> easy to learn and code.
+
+
