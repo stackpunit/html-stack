@@ -1,6 +1,6 @@
 # HTML-STACK
 
->HTML (hypertext markup language)
+> HTML (hypertext markup language)
 
 > used for creating web structure.
 
