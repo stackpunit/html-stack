@@ -8,6 +8,8 @@
 
 https://github.com/topics/html
 
+https://coolors.co/
+
 <img src="https://raw.githubusercontent.com/stackpunit/html-stack/main/spp-registartion-page-banner.jpg" width="100%">
 
 
