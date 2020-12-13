@@ -1,0 +1,15 @@
+* {
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: white;
+            font-size: 40px;
+            text-shadow: 1px 1px 1px black;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
